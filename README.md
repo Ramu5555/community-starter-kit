@@ -37,6 +37,8 @@ firstPRMergeComment: >
   Congrats on merging your first pull request! We here at behaviorbot are proud of you!
 
 # It is recommended to include as many gifs and emojis as possible!
+add welcome bot install
+
 ```
 
 You can opt out of having the bot comment on first time pull requests, pull request merges, or new issues by not filling in a value for each app's respective field.
